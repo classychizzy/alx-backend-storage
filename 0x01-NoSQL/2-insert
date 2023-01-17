@@ -1,7 +1,6 @@
 // a script that creates a collection
 // and adds a document to it
 
-use my_db
 db.school.insertOne({
-"name": "Holberton school",
+"name": "Holberton school"
 })
